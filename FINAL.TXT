@@ -1,1 +1,43 @@
-# TIDPP
+commit 783d822beb254221c5eaeae5c6cced5e661efb00 (HEAD -> master, origin/master)
+Author: Gaina Alexandra TI-185 <62384640+sasha442@users.noreply.github.com>
+Date:   Wed Sep 16 12:11:34 2020 +0300
+
+    Create FINAL.TXT
+
+commit e730796cabae777d8965c4ff87f6600f1b10eda8
+Merge: b02ec14 406aa71
+Author: Alexandra <gaina_1999@mail.ru>
+Date:   Tue Sep 15 17:02:04 2020 +0300
+
+    add branch
+
+commit b02ec14d73b3c87b56a91920b45ce571950fb5fd
+Merge: d954e08 613f68b
+Author: Alexandra <gaina_1999@mail.ru>
+Date:   Tue Sep 15 14:01:50 2020 +0300
+
+    add branch1
+
+commit d954e0804373076168c0a80b9230bb6ee39efe69
+Author: Alexandra <gaina_1999@mail.ru>
+Date:   Tue Sep 15 13:08:54 2020 +0300
+
+    add sha-1-heads
+
+commit 406aa718503cf8a7dc86dc281675625d7bcf14e3 (origin/branch2, branch2)
+Author: Alexandra <gaina_1999@mail.ru>
+Date:   Tue Sep 15 13:05:16 2020 +0300
+
+    adding files from branch2
+
+commit 613f68b940281299b73f450964083615841c4839 (origin/branch1, branch1)
+Author: Alexandra <gaina_1999@mail.ru>
+Date:   Tue Sep 15 12:49:43 2020 +0300
+
+    adding files from branch1
+
+commit e6ea1ff5186a0da6de211a156b430f0cae137e89 (origin/branch5, origin/branch4, origin/branch3, branch5, branch4, branch3, brach3)
+Author: Alexandra <gaina_1999@mail.ru>
+Date:   Tue Sep 15 11:51:14 2020 +0300
+
+    first commit
